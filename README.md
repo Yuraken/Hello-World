@@ -1,3 +1,3 @@
 # hello-world
 tutorial
-<p>Je fais le changement là</p>
+<p style="color: blue;">Je fais le changement là</p>
